@@ -5,3 +5,11 @@ dictionary={
 "origin":"필리핀"
 }
 print(dictionary)
+value=dictionary.get("존재하지 않는 키")
+print("값:",value)
+if value!=None
+    pass
+else:
+    pass
+if value==None
+    print("존재하지 않는 키")
